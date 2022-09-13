@@ -1,0 +1,13 @@
+
+১. কিছু বই এর ছবি সহ কার্ড থাকবে।  // image is case sensitive
+
+২. কার্ডের মধ্যে লিখা থাকতেই হবে।     // use slice()
+
+৩. লেখা কার্ড এর বাইরে যাওয়া যাবেনা।   // use slice()
+
+৪. wishlist এ আগে থেকে কার্ড এড হয়ে থাকছে। এটা হতে দেওয়া যাবেনা।   // displayWishlist() a wishlist k call korte hobe
+
+৫. এক পেজ থেকে অন্য পেজে গেলে কার্ড এর সংখ্য বেড়ে যায়। এটা থামাতে হবে।  // displayWishlist() a innerHTML clear
+
+৬. Add to cart কাজ করেনা।  // addToCart() call id diye call korte hobe
+
